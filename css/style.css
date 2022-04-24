@@ -1,3 +1,31 @@
+.panda-banner-part {
+    background-color: #fceae8;
+}
+
+.sent {
+    color: #ff136f;
+}
+
+.hayerme {
+    color: #ffffff;
+    background-color: #ff3887;
+}
+
 .categories img {
     width: 100px;
+}
+
+.Watch-c {
+    color: #ffffff;
+    background-color: #ffa500;
+}
+
+.bag-c {
+    color: #ffffff;
+    background-color: #da70d6;
+}
+
+.shoes-c {
+    color: #ffffff;
+    background-color: #0000ff;
 }
